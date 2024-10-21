@@ -1,0 +1,29 @@
+.nav-container {
+    margin-top: 20px;
+    /* position: fixed; */
+    height: 70px;
+    width: 70%;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between; 
+    
+    
+    
+    
+}
+
+.icon {
+  font-size: 33px;
+  }
+
+
+.account-bubble {
+    width: 57px;
+    height: 54px;
+    background-color: #3b82f6;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
